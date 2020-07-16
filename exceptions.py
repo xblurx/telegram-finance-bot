@@ -1,6 +1,5 @@
-"""Кастомные исключения, генерируемые приложением"""
+"""Custom exceptions, that are ignored"""
 
 
 class NotCorrectMessage(Exception):
-    """Некорректное сообщение в бот, которое не удалось распарсить"""
     pass
